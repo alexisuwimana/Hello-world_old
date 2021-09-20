@@ -43,7 +43,6 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://github.com/alexisuwimana)
 - LinkedIn: [LinkedIn](https://github.com/alexisuwimana)
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
