@@ -30,6 +30,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+# have a github account
+# create a github Repository
+# Have Internet connection
+# Computer
+=======
 ## have a github account
 ## create a github Repository
 ## Have Internet connection
@@ -40,6 +45,11 @@ To get a local copy up and running follow these simple example steps.
 👤 **Alexis UWIMANA**
 
 - GitHub: [@githubhandle](https://github.com/alexisuwimana)
+
+- Twitter: [@twitterhandle](https://twitter.com/alexisuwimana)
+- LinkedIn: [LinkedIn]https://www.linkedin.com/in/alexis-uwimana-38381148/)
+
+=======
 - Twitter: [@twitterhandle](https://github.com/alexisuwimana)
 - LinkedIn: [LinkedIn](https://github.com/alexisuwimana)
 
