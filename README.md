@@ -30,10 +30,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-##- have a github account
-##- create a github Repository
-##- Have Internet connection
-##- Computer
+## have a github account
+## create a github Repository
+## Have Internet connection
+## Computer
 
 ## Authors
 
